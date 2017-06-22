@@ -8,11 +8,11 @@
     <artifactId>Exposit_N1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<dependencies>
-    <dependency>
-        <groupId>com.opencsv</groupId>
-        <artifactId>opencsv</artifactId>
-        <version>3.9</version>
-    </dependency>
-</dependencies>
+<!--<dependencies>-->
+    <!--<dependency>-->
+        <!--<groupId>com.opencsv</groupId>-->
+        <!--<artifactId>opencsv</artifactId>-->
+        <!--<version>3.9</version>-->
+    <!--</dependency>-->
+<!--</dependencies>-->
 </project>
