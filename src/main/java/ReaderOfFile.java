@@ -5,7 +5,7 @@ import java.util.List;
  */
 abstract public class ReaderOfFile {
 
-    String inputFile;
+   private String inputFile;
 
     public String getInputFile() {
         return inputFile;

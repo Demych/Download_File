@@ -12,6 +12,6 @@ public class JSONReader extends ReaderOfFile {
 
         void readerFile(String inputFile) {
         System.out.println("Reading JSON...");
-        
+
             }
 }
